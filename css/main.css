@@ -3,6 +3,7 @@
 /********** STYLE GENERAL *********/
 * {
     box-sizing: border-box;
+
 }
 
 html,
@@ -99,4 +100,13 @@ main {
     text-align: center;
     margin: .5em 0 0;
     line-height: 1.1;
+}
+
+
+footer {
+    background-color: #151515;
+    color: #ffffff;
+    padding:  20px 40px;
+    text-align: center;
+    margin: auto;
 }
