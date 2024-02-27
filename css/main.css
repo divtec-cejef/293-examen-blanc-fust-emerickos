@@ -3,7 +3,6 @@
 /********** STYLE GENERAL *********/
 * {
     box-sizing: border-box;
-
 }
 
 html,
@@ -110,3 +109,20 @@ footer {
     text-align: center;
     margin: auto;
 }
+
+.encadremenet{
+    border: 2px solid #151515 ;
+    max-width: 60%;
+    margin: 10px;
+    height: auto;
+    display: block;
+}
+
+.imagerecardrememnt{
+    margin-top: 20px;
+}
+
+main {
+    flex-wrap: wrap;
+}
+
