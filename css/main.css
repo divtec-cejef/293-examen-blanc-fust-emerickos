@@ -134,11 +134,14 @@ h2 {
     color: #ff8800;
 }
 
-figure {
-    max-width: 50%;
+.produits {
     display: flex;
     flex-wrap: wrap;
     flex-direction: row;
     justify-content: center;
     margin: auto;
+    padding: 0;
+}
+.produits li {
+    flex-basis: 50%;
 }
